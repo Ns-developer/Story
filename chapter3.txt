@@ -1,0 +1,6 @@
+Dit is file nummer 3.
+
+Beide zijn te gelijk opgeslagen en ik ben dus benieuwd of ze beide dezelfde naam krijgen
+
+Beide krijgen dezelfde naam als je ze opslaat als git add . 
+

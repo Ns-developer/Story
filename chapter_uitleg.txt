@@ -1,0 +1,14 @@
+Hier een kleine uitleg tussen de fases die git maakt.
+
+Working directory is waar je iets maken en we doen het doormiddel van "git init". -> 
+Om het naar de staging area te krijgen moet je "git add" typen.
+
+Wat doet "git add" en waarom gebruik je het?
+Hier druk je het naar de staging area.
+Soms wil je niet dat alle files committen. 
+Sommige wil je negeren en sommigen wil je volgen. Die je wilt volgen druk je door doormiddel van "git commit". Git commit beteken dat de file is doorgezet naar de local repository. Vanuit hier kun je altijd terug doormiddel van "git checkout" hier ga je terug naar het eerste(of laatste) versie naar de goede doc.
+
+Door git status kun je kijken of je doc is gecommitteerd.
+
+Door git diff (different) naam doc (chapter) te gebruiken kun je kijken wat de verschillen zijn tussen het eerder opgeslagen doc en het nieuwe doc.
+
